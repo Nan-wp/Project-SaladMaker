@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "name": "DA BEST RECIPE!",
+    "ingredient": [
+      {
+        "id": 4,
+        "ingredient": "Red cabbage",
+        "category": "vegetables",
+        "image": "/image/cabbage.png",
+        "calories": 10,
+        "quantity": 2
+      },
+      {
+        "id": 10,
+        "ingredient": "Corn",
+        "category": "fruit",
+        "image": "/image/corn.png",
+        "calories": 43,
+        "quantity": 3
+      },
+      {
+        "id": 14,
+        "ingredient": "Smoked Salmon",
+        "category": "protein",
+        "image": "/image/salmon.png",
+        "calories": 58,
+        "quantity": 2
+      },
+      {
+        "id": 23,
+        "ingredient": "Roast Sesame Dressing",
+        "category": "dressing",
+        "image": "/image/sesame.png",
+        "calories": 60,
+        "quantity": 2
+      }
+    ],
+    "calorie": "385"
+  },
+  {
+    "id": 2,
+    "name": "YUM YUM :)",
+    "ingredient": [
+      {
+        "id": 3,
+        "ingredient": "Kale",
+        "category": "vegetables",
+        "image": "/image/kale.png",
+        "calories": 10,
+        "quantity": 2
+      },
+      {
+        "id": 7,
+        "ingredient": "Tomato",
+        "category": "vegetables",
+        "image": "/image/tomato.png",
+        "calories": 18,
+        "quantity": 1
+      },
+      {
+        "id": 1,
+        "ingredient": "Green leaf lettuce",
+        "category": "vegetables",
+        "image": "/image/lettuce.png",
+        "calories": 8,
+        "quantity": 1
+      },
+      {
+        "id": 9,
+        "ingredient": "Mix Berries",
+        "category": "fruit",
+        "image": "/image/mixberries.png",
+        "calories": 28,
+        "quantity": 1
+      },
+      {
+        "id": 16,
+        "ingredient": "Crouton",
+        "category": "toppings",
+        "image": "/image/crouton.png",
+        "calories": 81,
+        "quantity": 1
+      },
+      {
+        "id": 19,
+        "ingredient": "Cream Dressing",
+        "category": "dressing",
+        "image": "/image/cream.png",
+        "calories": 60,
+        "quantity": 2
+      }
+    ],
+    "calorie": 275
+  }
+]
